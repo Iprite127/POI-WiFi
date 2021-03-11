@@ -1,30 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-    </head>
-	 
-<body>
- <pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
+# sas
 
-<div class="mermaid">graph LR
-A--&gt;B
-</div>
-	
-</body>
-<script>
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
+```mermaid
+%% Example of sequence diagram
+  sequenceDiagram
+    Alice->>Bob: ciao
+    alt is sick
+    Bob->>Alice: Not so good :(
+    else is well
+    Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+    Bob->>Alice: Thanks for asking
+    end
+```
 
-</html>
+**sos**
