@@ -14,12 +14,41 @@
 <p>&nbsp;</p>
 
 >## 2.  Principali Deriverable
->Project Managment
+>>### 1. Project Managment
+>>>- comprensione della commessa 
+>>>- elaborazione e inizio progettazione commessa 
+>>> - definizione budget e sponsor o bandi 
+>>>
+>>### 1. Progettazione
+>>>- raccolta e riorganizzazione dei dati <br>
+>>>- schematizzazione e organizzazione logico 
+funzionale dei dati multimediali <br>
+>>>- Ricerca materiali di fruizione multimediale HW(ricerca aziende che prestano servizi per fruizione multimediale mobile audio visiva ALIAS set cuffie+miniTablet)<br>
+>>>
+>>#### Esecuzione
+>>>- creazione infrastruttura: Server WEB(http, php ed eventualmente NODE)<br>
+>>>- creazione infrastruttura:DATABASE<br>
+>>>- Creazione frontend(UX e UI del prodotto)<br>
+
+
 
 <p>&nbsp;</p>
 
 >## 3.  Milestone
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae dolor non sapien sollicitudin aliquet. Sed id enim commodo est egestas lacinia vitae a libero. Nullam molestie a odio vitae ultricies. Nam finibus a mi nec ullamcorper. Sed luctus aliquet diam, sit amet consectetur mi. Nullam laoreet in sapien non placerat. Pellentesque tincidunt erat sed justo ultrices, nec ullamcorper erat blandit. Nulla maximus, metus in tincidunt blandit, mi metus viverra lacus, at efficitur augue sapien at erat. Vivamus pharetra euismod diam, sit amet imperdiet risus cursus in.
+>DATABASE<br>
+>>Progetto(concettuale e logico) DATABASE<br>
+>>implementazione DATABASE<br>
+>>popolamento DATABASE
+>>
+>SERVER<br>
+>>Backend and Minimal UX <br>
+>>FrontEND UX<br>
+>>
+>ACESS POINT<br>
+>>Allestimento stand per offerta servizio
+
+
+
 <p>&nbsp;</p>
 
 >## 4.  Vincoli e dipendenze
