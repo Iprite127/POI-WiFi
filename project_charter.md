@@ -67,7 +67,7 @@ funzionale dei dati multimediali <br>
 >Il server WEB ha un costo mensile dai 200 ai 300 euro.
 Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori, la disponibilità di una rete LAN
 e WAN per lo sviluppo.
-I tecnici impiegati sono interni all’azienda, i cui costi sono ben definiti, dai 20 ai 40 euro/h.<br>
+I tecnici impiegati sono interni all’azienda, i cui costi sono ben definiti, dai 20 ai 40 euro/h.<br>_
 DA DEFINIRE MARGINE VENDITE
 <p>&nbsp;</p>
 
