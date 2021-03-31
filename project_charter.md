@@ -13,8 +13,8 @@
 >Offrire un sistema Hardware e Software che permetta la fruizione di contenuti multimediale in diverse locazioni prestabilite della città metropolitana di Firenze. La fruizione avverà in due modalità non consequenziali ma mutualmente esclusiva.
 <p>&nbsp;</p>
 
->## 2.  Principali Deriverable
->>### 1. Project Managment
+>## 2.  Principali Deliverables
+>>### 1. Project Management
 >>>- comprensione della commessa 
 >>>- elaborazione e inizio progettazione commessa 
 >>> - definizione budget e sponsor o bandi 
@@ -67,7 +67,7 @@ funzionale dei dati multimediali <br>
 >Il server WEB ha un costo mensile dai 200 ai 300 euro.
 Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori, la disponibilità di una rete LAN
 e WAN per lo sviluppo.
-I tecnici impiegati sono interni all’azienda, i cui costi sono ben definiti, dai 20 ai 40 euro/h.<br>_
+I tecnici impiegati sono interni all’azienda, i cui costi sono ben definiti, dai 20 ai 40 euro/h.<br>
 DA DEFINIRE MARGINE VENDITE
 <p>&nbsp;</p>
 
@@ -81,5 +81,5 @@ DA DEFINIRE MARGINE VENDITE
 <p>&nbsp;</p>
 
 >## 9.  Autorizzazione
->### Approvato da Federica Lunghi e Stefano Pardini(In vesto di stackholder del progetto)
+>### Approvato da Federica Lunghi e Stefano Pardini(In veste di stackholder del progetto)
 <p>&nbsp;</p>
