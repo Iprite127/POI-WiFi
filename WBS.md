@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
     start(WBS) --- A(Avvio)
     A(Avvio) --- A1(comprensione della commessa)
     A(Avvio) --- A2(elaborazione della commessa)
