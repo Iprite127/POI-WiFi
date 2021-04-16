@@ -24,11 +24,16 @@
 >>>- schematizzazione e organizzazione logico 
 funzionale dei dati multimediali <br>
 >>>- Ricerca materiali di fruizione multimediale HW(ricerca aziende che prestano servizi per fruizione multimediale mobile audio visiva ALIAS set cuffie+miniTablet)<br>
+>>>- Progettazione posizionamento ed installazione AP <br>
+>>>- Valutazione strutture e tipologia AP necessari<br>
 >>>
 >>#### Esecuzione
 >>>- creazione infrastruttura: Server WEB(http, php ed eventualmente NODE)<br>
 >>>- creazione infrastruttura:DATABASE<br>
 >>>- Creazione frontend(UX e UI del prodotto)<br>
+>>>- Planometria posizionamento AP<br>
+>>>- Acquisto e configurazione AP<br>
+
 
 
 
@@ -45,6 +50,7 @@ funzionale dei dati multimediali <br>
 >>FrontEND UX<br>
 >>
 >ACESS POINT<br>
+>>Acquisto o affitto AP
 >>Allestimento stand per offerta servizio
 
 
