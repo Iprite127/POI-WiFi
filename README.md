@@ -2,8 +2,8 @@
 
 [Project Charter](/project_charter.md)
 
-[WBS](/WBS.md)
+[WBS](/WBS.html)
 
-[Diagramma di Gannt](/DiagrammaDiGannt.md)
+[Diagramma di Gannt](/DiagrammaDiGannt.html)
 
 [RBS](/RBS.md)
