@@ -32,14 +32,14 @@ gantt
     P5 :p5, after p4, 3d
     R5 :r5, after p5, 4d
     R6 :r6, after r5, 127h
-    C3 :c3, after r6, 7d
+    C3 :c3, after r6, 3d
 
     section Stand
-    C2 :c2, after r5, 3d
+    C2 :c2, after r5, 1d
 
     section Collaudo
-    C4 :c4, after r1, 5d
-    C5 :c5, after r1, 5d
+    C4 :c4, after r1, 2d
+    C5 :c5, after r1, 4d
 
 
 
