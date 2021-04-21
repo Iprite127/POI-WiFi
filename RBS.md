@@ -5,6 +5,7 @@
 | **Progetto:** POI-WIFI | **Codice Progetto:** IPRITE127 |
 | **Data:** 18/06/2021 | **Revisione:** 0 |
 | **Cliente:** Firenze | **Sponsor:** Aoh |
+
 <br>
 
 #### A1 comprensione della commessa 
